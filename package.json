@@ -59,9 +59,10 @@
     "*.ts": "npm run lint"
   },
   "keywords": [
-    "react",
-    "custom",
-    "hook"
+    "react hooks",
+    "useRefWithSetter",
+    "useDebounce",
+    "useThrottle"
   ],
   "author": "Felix J Lee",
   "license": "MIT",
